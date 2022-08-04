@@ -15,6 +15,7 @@ body
 }
 header
 {
+    display: block;
     height: 555px;
     background-color: #31a08a;
 }
